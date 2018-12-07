@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Marker Felt, fantasy;
+    width: 886px;
+    border: dotted 3px rgb(227, 252, 0);
+    border-radius: 10px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+header {
+    width: 840px;
+    margin: 20px auto;
+    padding: 20px 20px;
+    border: dotted 3px rgb(227, 252, 0);
+    border-radius: 10px;
+}
+
+h3 {
+    padding-top: 8px;
+}
+
+.container {
+    width: 860px;
+}
+
+.col {
+    border: dotted 3px rgb(227, 252, 0);
+    margin: 0 10px 20px;
+    border-radius: 10px;
+}
+
+.data {
+    color: hotpink;
+    line-height: 0%;
+    text-transform: capitalize;
+}
