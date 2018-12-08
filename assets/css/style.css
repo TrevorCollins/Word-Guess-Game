@@ -36,3 +36,7 @@ h3 {
     line-height: 0%;
     text-transform: capitalize;
 }
+
+#lettersGuessed {
+    letter-spacing: 0.2em;
+}
